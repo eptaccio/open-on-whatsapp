@@ -1,13 +1,26 @@
 {
   "short_name": "Open on wwp",
   "name": "Open on wwp",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
+  "icons": [{
+    "src": "favicon.ico",
+    "sizes": "128x128",
+    "type": "image/x-icon"
+  },
+  {
+    "src": "favicon.ico",
+    "sizes": "144x144",
+    "type": "image/x-icon"
+  },
+  {
+    "src": "favicon.ico",
+    "sizes": "192x192",
+    "type": "image/x-icon"
+  },
+  {
+    "src": "favicon.ico",
+    "sizes": "256x256",
+    "type": "image/x-icon"
+  }],
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
